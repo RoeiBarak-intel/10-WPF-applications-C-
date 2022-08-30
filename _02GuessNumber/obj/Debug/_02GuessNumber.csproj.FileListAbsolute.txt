@@ -1,0 +1,15 @@
+C:\Users\rbarak\source\repos\_02GuessNumber\bin\Debug\_02GuessNumber.exe.config
+C:\Users\rbarak\source\repos\_02GuessNumber\bin\Debug\_02GuessNumber.exe
+C:\Users\rbarak\source\repos\_02GuessNumber\bin\Debug\_02GuessNumber.pdb
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber.csproj.AssemblyReference.cache
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\MainWindow.g.cs
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\App.g.cs
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber_MarkupCompile.cache
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber_MarkupCompile.lref
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\MainWindow.baml
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber.g.resources
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber.Properties.Resources.resources
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber.csproj.GenerateResource.cache
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber.exe
+C:\Users\rbarak\source\repos\_02GuessNumber\obj\Debug\_02GuessNumber.pdb
