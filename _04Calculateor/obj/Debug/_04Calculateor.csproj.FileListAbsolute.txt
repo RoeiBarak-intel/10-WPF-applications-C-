@@ -1,0 +1,15 @@
+C:\Users\rbarak\source\repos\_04Calculateor\bin\Debug\_04Calculateor.exe.config
+C:\Users\rbarak\source\repos\_04Calculateor\bin\Debug\_04Calculateor.exe
+C:\Users\rbarak\source\repos\_04Calculateor\bin\Debug\_04Calculateor.pdb
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor.csproj.AssemblyReference.cache
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\MainWindow.g.cs
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\App.g.cs
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor_MarkupCompile.cache
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor_MarkupCompile.lref
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\MainWindow.baml
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor.g.resources
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor.Properties.Resources.resources
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor.csproj.GenerateResource.cache
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor.csproj.CoreCompileInputs.cache
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor.exe
+C:\Users\rbarak\source\repos\_04Calculateor\obj\Debug\_04Calculateor.pdb

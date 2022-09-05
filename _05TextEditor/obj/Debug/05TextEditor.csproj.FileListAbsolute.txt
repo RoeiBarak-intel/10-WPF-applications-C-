@@ -1,0 +1,15 @@
+C:\Users\rbarak\source\repos\05TextEditor\bin\Debug\05TextEditor.exe.config
+C:\Users\rbarak\source\repos\05TextEditor\bin\Debug\05TextEditor.exe
+C:\Users\rbarak\source\repos\05TextEditor\bin\Debug\05TextEditor.pdb
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\05TextEditor.csproj.AssemblyReference.cache
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\App.g.cs
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\05TextEditor_MarkupCompile.cache
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\05TextEditor_MarkupCompile.lref
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\MainWindow.baml
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\05TextEditor.g.resources
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\_05TextEditor.Properties.Resources.resources
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\05TextEditor.csproj.GenerateResource.cache
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\05TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\05TextEditor.exe
+C:\Users\rbarak\source\repos\05TextEditor\obj\Debug\05TextEditor.pdb
