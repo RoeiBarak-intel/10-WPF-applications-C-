@@ -1,0 +1,15 @@
+﻿<Window x:Class="_07Canvas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_07Canvas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Canvas Name="cnv" Background="Transparent" MouseMove="cnv_MouseMove" MouseLeftButtonDown="cnv_MouseLeftButtonDown" HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="774">
+            <Line X1="0" Y1="0" X2="200" Y2="200"></Line>
+        </Canvas>
+
+    </Grid>
+</Window>

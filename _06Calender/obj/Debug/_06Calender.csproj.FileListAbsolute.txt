@@ -1,0 +1,15 @@
+C:\Users\rbarak\source\repos\_06Calender\bin\Debug\_06Calender.exe.config
+C:\Users\rbarak\source\repos\_06Calender\bin\Debug\_06Calender.exe
+C:\Users\rbarak\source\repos\_06Calender\bin\Debug\_06Calender.pdb
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender.csproj.AssemblyReference.cache
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\MainWindow.g.cs
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\App.g.cs
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender_MarkupCompile.cache
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender_MarkupCompile.lref
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\MainWindow.baml
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender.g.resources
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender.Properties.Resources.resources
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender.csproj.GenerateResource.cache
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender.csproj.CoreCompileInputs.cache
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender.exe
+C:\Users\rbarak\source\repos\_06Calender\obj\Debug\_06Calender.pdb

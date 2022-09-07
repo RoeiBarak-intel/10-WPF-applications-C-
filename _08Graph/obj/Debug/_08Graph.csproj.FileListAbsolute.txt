@@ -1,0 +1,15 @@
+C:\Users\rbarak\source\repos\_08Graph\bin\Debug\_08Graph.exe.config
+C:\Users\rbarak\source\repos\_08Graph\bin\Debug\_08Graph.exe
+C:\Users\rbarak\source\repos\_08Graph\bin\Debug\_08Graph.pdb
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph.csproj.AssemblyReference.cache
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\MainWindow.g.cs
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\App.g.cs
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph_MarkupCompile.cache
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph_MarkupCompile.lref
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\MainWindow.baml
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph.g.resources
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph.Properties.Resources.resources
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph.csproj.GenerateResource.cache
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph.csproj.CoreCompileInputs.cache
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph.exe
+C:\Users\rbarak\source\repos\_08Graph\obj\Debug\_08Graph.pdb
