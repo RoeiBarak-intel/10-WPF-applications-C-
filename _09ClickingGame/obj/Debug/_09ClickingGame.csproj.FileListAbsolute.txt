@@ -1,0 +1,15 @@
+C:\Users\rbarak\source\repos\_09ClickingGame\bin\Debug\_09ClickingGame.exe.config
+C:\Users\rbarak\source\repos\_09ClickingGame\bin\Debug\_09ClickingGame.exe
+C:\Users\rbarak\source\repos\_09ClickingGame\bin\Debug\_09ClickingGame.pdb
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame.csproj.AssemblyReference.cache
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\MainWindow.g.cs
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\App.g.cs
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame_MarkupCompile.cache
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame_MarkupCompile.lref
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\MainWindow.baml
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame.g.resources
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame.Properties.Resources.resources
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame.csproj.GenerateResource.cache
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame.csproj.CoreCompileInputs.cache
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame.exe
+C:\Users\rbarak\source\repos\_09ClickingGame\obj\Debug\_09ClickingGame.pdb
