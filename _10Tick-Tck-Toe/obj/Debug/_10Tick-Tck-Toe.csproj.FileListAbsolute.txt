@@ -1,0 +1,15 @@
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\bin\Debug\_10Tick-Tck-Toe.exe.config
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\bin\Debug\_10Tick-Tck-Toe.exe
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\bin\Debug\_10Tick-Tck-Toe.pdb
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick-Tck-Toe.csproj.AssemblyReference.cache
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\MainWindow.g.cs
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\App.g.cs
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick-Tck-Toe_MarkupCompile.cache
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick-Tck-Toe_MarkupCompile.lref
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\MainWindow.baml
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick-Tck-Toe.g.resources
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick_Tck_Toe.Properties.Resources.resources
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick-Tck-Toe.csproj.GenerateResource.cache
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick-Tck-Toe.csproj.CoreCompileInputs.cache
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick-Tck-Toe.exe
+C:\Users\rbarak\source\repos\_10Tick-Tck-Toe\obj\Debug\_10Tick-Tck-Toe.pdb
